@@ -19,7 +19,7 @@
 		
 		width: 30%;
 		float: left;
-		min-height: 800px;
+		min-height: 1080px;
 		font-size: 20pt;
 		padding: 20px;
 		background-color: white;
@@ -30,7 +30,7 @@
 
 #text{
 		width: 70%;
-        min-height: 800px;
+        min-height: 1080px;
         float: left;
 		padding: 20px 0px;
 		font-family: Arial , 'Times New Roman';
