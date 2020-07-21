@@ -1,6 +1,6 @@
 #header{
 		width: 100%;
-		height: 150px;
+		height: 200px;
 		background: url("../image/capture1.png") top no-repeat  ;
 		 padding-right: 50px ;
 		 background-color: #fff;
@@ -114,6 +114,7 @@
 		box-sizing: border-box;
         display: block;
         border: 2px black solid;
+		height:100px;
        
        
 		
